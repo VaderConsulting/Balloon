@@ -1,6 +1,6 @@
 # Balloon
 
-VB.NET working copy of `Balloon` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Test.
+VB.NET working copy of `Balloon` from my Historical Dev `VB/Old` folder. Project title: Test.
 
 **Source last updated:** 2026-08-27 · **Language:** VB.NET · **Target:** .NET Framework (legacy VB.NET) · **Output:** WinForms exe
 
@@ -24,7 +24,7 @@ Open the solution in Visual Studio:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/DOT NET/Balloon`.
+Working copy from my Historical Dev folder `VB/Old/DOT NET/Balloon`.
 
 ## License
 
